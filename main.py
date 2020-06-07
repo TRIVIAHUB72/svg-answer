@@ -21,7 +21,7 @@ oot_channel_id_list = [
     "569420128794443776", #loco unt
     "569502072945377290", #indian loco
 	"595635734904307742", #tf loco
-	"612177236107460618",#sani loco
+	"550610002218319874",#trivia hero
 	"591498350562377741",#planet loco
 	"605443517069656084", #tf confetti
 	"593990638916075520", #galaxy confett
